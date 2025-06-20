@@ -84,11 +84,3 @@
 ### ⚡ Fun Fact  
 
 > *"Jack of all trades, master of none — though oftentimes better than master of one."*
-
----
-
-### 🟡 Pac-Man Just for Fun
-
-<p align="center">
-  🟡 ⚪ ⚪ ⚪ ⚪ 👾  
-</p>
