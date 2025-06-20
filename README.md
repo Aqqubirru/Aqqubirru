@@ -73,14 +73,6 @@
 
 ---
 
-### 🎮 GitHub Pac-Man Contribution
-
-<p align="center">
-  <img src="https://github.com/Aqqubirru/Aqqubirru/blob/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph"/>
-</p>
-
----
-
 ### ⚡ Fun Fact  
 
 > *"Jack of all trades, master of none — though oftentimes better than master of one."*
