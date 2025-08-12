@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aqbil</h1>
-<h3 align="center">💻 Junior Software Developer | 🎓 RPL Student at Medikacom High Vocational School</h3>
+<h3 align="center">💻 Junior Software Developer 
 
 <p align="center">
   <img src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif" width="250" alt="Welcome Gif" />
