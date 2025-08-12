@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aqbil</h1>
 <h3 align="center">💻 Junior Software Developer 
 
-<p align="center", margin-top="10px">
+<p align="center", padding="10rem">
   <img src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif" width="250" alt="Welcome Gif" />
 </p>
 
