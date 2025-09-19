@@ -1,6 +1,7 @@
 <h1 align="center">Hi</h1>
 <h3 align="center">💻 Junior Software Developer 
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif" width="250" alt="Welcome Gif" />
 </p>
