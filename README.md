@@ -86,5 +86,12 @@
 </div>
 
 ---
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aqqubirru/Aqqubirru/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aqqubirru/Aqqubirru/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aqqubirru/Aqqubirru/output/pacman-contribution-graph.svg">
+</picture>
 
 > *"Jack of all trades, master of none, though oftentimes better than master of one."*
