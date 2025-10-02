@@ -1,5 +1,5 @@
 <h1 align="center">Hi</h1>
-<h3 align="center">💻 Junior Software Developer 
+<h3 align="center" marginBottom="10px">💻 Junior Software Developer 
 
 
 <p align="center">
