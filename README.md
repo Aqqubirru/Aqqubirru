@@ -31,7 +31,7 @@
 
 - 📧 Email: **aqbilhasyarasyadi21@gmail.com**  
 - 📸 Instagram: [@jbiel.hr](https://instagram.com/jbiel.hr)  
-- 🎵 TikTok: [@zebiel21](https://www.tiktok.com/@zebiel21)
+- 🎵 TikTok: [@jeibiel](https://www.tiktok.com/@balbelbillll)
 
 ---
 
