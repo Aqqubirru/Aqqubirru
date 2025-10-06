@@ -1,8 +1,8 @@
 <h1 align="center">Hello</h1>
-<h3 align="center" marginBottom="10px">💻 Junior Software Developer 
+<h3 align="center">💻 Junior Software Developer 
 
 
-<p align="center">
+<p align="center" margin-top="10px">
   <img src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif" width="250" alt="Welcome Gif" />
 </p>
 
