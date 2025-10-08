@@ -25,6 +25,10 @@
 - 📱 Flutter, Unity C#  
 - 🧠 Always building something new!
 
+<div align="center>
+  <img src="https://www.linkedin.com/in/aqbil-hasya-rasyadi-2579bb370/"/>
+</div>
+
 ---
 
 ### 📫 Contact Me
