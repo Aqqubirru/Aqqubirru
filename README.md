@@ -93,4 +93,4 @@
 
 ## Motto
 
-> *"Jack of all trades, master of none, though oftentimes better than master of one."*
+> *"The only true wisdom is in knowing, that you know nothing."*
