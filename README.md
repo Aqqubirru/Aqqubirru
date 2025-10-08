@@ -21,7 +21,7 @@
 ### 🌱 Currently Learning
 
 - ⚙️ React JS, Express JS, RESTful API Integration, ASP.Net, C#, xaml.
-- 🎨 Tailwind CSS, Figma UI Design  
+- 🎨 Tailwind CSS, Figma, Bootstrap.  
 - 📱 Flutter, Unity C#  
 - 🧠 Always building something new!
 
