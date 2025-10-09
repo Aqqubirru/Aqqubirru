@@ -62,6 +62,15 @@
 - 📸 Instagram: [@jbiel.hr](https://instagram.com/jbiel.hr)  
 - 🎵 TikTok: [@jbielze](https://www.tiktok.com/@balbelbillll)
 
+You can reach me via the icons at the bottom of the site:
+
+| Platform | Link |
+|-----------|------|
+| ✉️ Email | [aqbil@example.com](mailto:aqbil@example.com) |
+| 💻 GitHub | [github.com/aqbil](https://github.com/aqbil) |
+| 💼 LinkedIn | [linkedin.com/in/aqbil](https://linkedin.com/in/aqbil) |
+| 💬 WhatsApp | [Chat on WhatsApp](https://wa.me/628xxxxxxxxxx) |
+
 ---
 
 ### 🔗 Connect With Me at
