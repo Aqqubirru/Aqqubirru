@@ -19,7 +19,7 @@
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning With
 
 ## - Frontend
 <div align="left">
