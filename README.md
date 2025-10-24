@@ -3,10 +3,6 @@
 
 ---
 
-<p align="center" margin-top="10px">
-  <img src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif" width="250" alt="Welcome Gif" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aqqubirru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
