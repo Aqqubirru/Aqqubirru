@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Blazor-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Blazor-F24E1E?style=for-the-badge&logo=blazor&logoColor=white" height="30"/>
 </div>
 
 ## - Backend
