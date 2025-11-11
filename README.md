@@ -75,7 +75,7 @@ You can reach me here :
 
 ---
 
-### 💻 I Code With
+### I Code With
 
 
 <div align="left">
