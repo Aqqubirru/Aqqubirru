@@ -57,7 +57,7 @@
 
 You can reach me here :
 - Email: **aqbilhasyarasyadi21@gmail.com**  
-- Instagram: [@jbiel.hr](https://instagram.com/jbiel.hr)  
+- Instagram: [@bilbill.hr](https://instagram.com/bilbill.hr)  
 - TikTok: [@jbielze](https://www.tiktok.com/@balbelbillll)
 - LinkedIn: [Aqbil Hasya Rasyadi](https://www.linkedin.com/in/aqbil-hasya-rasyadi-2579bb370/)
 
