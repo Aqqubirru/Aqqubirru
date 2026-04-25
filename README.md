@@ -1,20 +1,6 @@
 <h1 align="center">Hello</h1>
 <h3 align="center">I'm a Software Developer Enthusiast 
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aqqubirru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aqqubirru&theme=gruvbox" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### Currently Learning With :
 
 ## - Frontend
