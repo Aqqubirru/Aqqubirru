@@ -97,9 +97,3 @@ You can reach me here :
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
-
----
-
-## idk
-
-> *"The only true wisdom is in knowing, that you know nothing."*
